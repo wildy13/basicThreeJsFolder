@@ -1,3 +1,3 @@
 # basicThreeJsFolder
-[click here for documentation](https://github.io/wildy13/basicThreeJs)
+[click here for documentation](https://wildy13.github.io/basicThreeJs/)
 3D animation
